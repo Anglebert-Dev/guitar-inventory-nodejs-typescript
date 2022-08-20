@@ -2,7 +2,7 @@ import express from  "express"
 import path from "path"
 
 const app  = express()
-const port = 6000
+const port = 8080
 
 //  configure Express to use EJS
 app.set("views",path.join(__dirname , "views"));
