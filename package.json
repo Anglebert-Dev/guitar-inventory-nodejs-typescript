@@ -1,5 +1,5 @@
 {
-  "name": "guiter-inventory",
+  "name": "guitar-inventory",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
